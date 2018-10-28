@@ -1,6 +1,7 @@
 # React-Front-End-
 
 This task is to use the provided assets to create the web app displayed in the design spec.
+![design](https://user-images.githubusercontent.com/22483655/47621270-b124df00-dacb-11e8-968c-fafddb90cbfa.png)
 
 
 
